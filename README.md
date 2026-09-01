@@ -1,6 +1,6 @@
 # Personal skills
 
-Private agent skills.
+Personal agent skills.
 
 ## cleanup
 
